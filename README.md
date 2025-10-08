@@ -10,5 +10,5 @@ Build the docker image:
 docker buildx build -t testnode .
 
 Step-3:
-Run the docker image
+Run the docker image:
 docker container run --rm -p 8000:8000 testnode:latest
