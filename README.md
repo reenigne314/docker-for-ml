@@ -17,4 +17,5 @@ Run the docker image:
 docker container run --rm -p 8000:8000 testnode:latest
 
 Method 2:
+Run the repo from docker hub:
 docker container run --rm -p 8000:8000 reengine314/dockerforml
